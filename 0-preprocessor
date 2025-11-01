@@ -1,0 +1,8 @@
+#######################################
+# Author: Aminu Mathias
+# Program: WinMingle Community C Training
+# Description: Preprocess a C file and save result to 'c'
+#######################################
+
+#!/bin/bash
+gcc -E "$CFILE" -o c

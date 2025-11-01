@@ -1,0 +1,8 @@
+#######################################
+# Author: Aminu Mathias
+# Program: WinMingle Community C Training
+# Description: Generate assembly code from C file
+#######################################
+
+#!/bin/bash
+gcc -S "$CFILE"

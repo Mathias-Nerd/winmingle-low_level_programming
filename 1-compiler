@@ -1,0 +1,8 @@
+#######################################
+# Author: Aminu Mathias
+# Program: WinMingle Community C Training  
+# Description: Compile C file to object file without linking
+#######################################
+
+#!/bin/bash
+gcc -c "$CFILE"

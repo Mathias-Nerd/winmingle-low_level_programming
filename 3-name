@@ -1,0 +1,8 @@
+#######################################
+# Author: Aminu Mathias
+# Program: WinMingle Community C Training
+# Description: Compile C file and create executable named 'cisfun'
+#######################################
+
+#!/bin/bash
+gcc "$CFILE" -o cisfun
